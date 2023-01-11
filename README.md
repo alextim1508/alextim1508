@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+##I'a Alex and I'a Java developer
+
 <!--
 **alextim1508/alextim1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
