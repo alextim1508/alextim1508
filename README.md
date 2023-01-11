@@ -2,10 +2,12 @@
 
 ## I'm Alex and I'm Java developer
 
+Стек технологий: Java Core, Spring, Docker, JUnit, Mockito, Apache Maven, Git, JPA(Hibernate), SQL, Swagger.
+
 # Актуальные мои проекты:
 
 ##### Сервис по аренде вещей
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&theme=darcula&repo=shareIt)](https://github.com/alextim1508/shareIt)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&theme=darcula&repo=shareIt)](https://github.com/alextim1508/shareIt)
 
 
 <!--
