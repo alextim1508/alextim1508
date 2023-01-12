@@ -8,6 +8,7 @@
 
 ##### Сервис аренды вещей
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=shareIt&theme=darcula)](https://github.com/alextim1508/shareIt)
+Из интересного - была задача снизить нагрузку на основной сервер от невалидных запросов - сделал перед сервисом gateway на WebFlux с валидацией. 
 
 <!--
 **alextim1508/alextim1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
