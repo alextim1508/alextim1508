@@ -7,7 +7,7 @@
 # Актуальные мои проекты:
 
 ##### Сервис аренды вещей
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&theme=darcula&repo=shareIt)](https://github.com/alextim1508/shareIt)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?user=alextim1508&theme=darcula&repo=shareIt)](https://github.com/alextim1508/shareIt)   
 
 <!--
 **alextim1508/alextim1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
