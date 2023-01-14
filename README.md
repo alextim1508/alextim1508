@@ -13,6 +13,7 @@
 Из интересного - была задача снизить нагрузку на основной сервер от невалидных запросов - сделал перед сервисом gateway на WebFlux с валидацией. 
 
 Иногда решаю задачки с LeetCode
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alextim1508&theme=dark)](https://github.com/alextim1508/leetcode-stats)
 
 <!--
