@@ -14,7 +14,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=java-explore-with-me&theme=darcula)](https://github.com/alextim1508/java-explore-with-me)
 
-Добавил сервер аутентификации KeyCloak
+Из интересного - добавил сервер аутентификации KeyCloak
 
 Иногда решаю задачки с LeetCode
 
