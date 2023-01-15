@@ -2,9 +2,9 @@
 
 ## I'm Alex and I'm Java developer
 
-Стек технологий: Java, Spring, Docker, JUnit, Mockito, Apache Maven, Git, SQL, JPA(Hibernate), PostgreSQL, Liquibase, Postman, Swagger.
+Soft skills: Java, Spring, Docker, JUnit, Mockito, Apache Maven, Git, SQL, JPA(Hibernate), PostgreSQL, Liquibase, KeyCloak, Apache Kafka, Postman, Swagger.
 
-Скоро: KeyCloak, Apache Kafka, Jenkins.
+ 
 
 # Актуальные мои проекты:
 
