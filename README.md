@@ -16,6 +16,9 @@ Soft skills: Java, Spring, Docker, JUnit, Mockito, Apache Maven, Git, SQL, JPA(H
 
 Из интересного - добавил сервер аутентификации KeyCloak
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=currencyRate&theme=darcula)](https://github.com/alextim1508/currencyRate)
+
+
 Иногда решаю задачки с LeetCode
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alextim1508&theme=dark)](https://github.com/alextim1508/leetcode-stats)
