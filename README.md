@@ -2,7 +2,7 @@
 
 ## I'm Alex and I'm Java developer
 
-Soft skills: Java, Spring, Docker, JUnit, Mockito, Apache Maven, Git, SQL, JPA(Hibernate), PostgreSQL, Liquibase, KeyCloak, Apache Kafka, Postman, Swagger.
+Soft skills: Java, Spring, Docker, JUnit, Mockito, Apache Maven, Git, SQL, JPA(Hibernate), PostgreSQL, Liquibase, KeyCloak, Apache Kafka, Reactor WebFlux, Postman, Swagger.
 
  
 
@@ -18,6 +18,7 @@ Soft skills: Java, Spring, Docker, JUnit, Mockito, Apache Maven, Git, SQL, JPA(H
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=currencyRate&theme=darcula)](https://github.com/alextim1508/currencyRate)
 
+Reactor, Telegram, Kafka
 
 Иногда решаю задачки с LeetCode
 
