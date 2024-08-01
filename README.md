@@ -22,6 +22,9 @@ Reactor, Telegram, Kafka
 
 Иногда решаю задачки с LeetCode
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/alextim1508)
+
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alextim1508&theme=dark)](https://github.com/alextim1508/leetcode-stats)
 
 
