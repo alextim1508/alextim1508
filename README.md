@@ -17,7 +17,7 @@
 <br>
 <br>
 
-# Актуальные мои проекты:
+# Актуальные проекты:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=intershop&theme=darcula)](https://github.com/alextim1508/intershop)
 
