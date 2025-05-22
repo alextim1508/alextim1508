@@ -19,9 +19,9 @@
 
 # Актуальные мои проекты:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=currencyRate&theme=darcula)](https://github.com/alextim1508/currencyRate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=intershop&theme=darcula)](https://github.com/alextim1508/intershop)
 
-Reactor, Telegram, Kafka
+Проект реализован на WebFlux
 
 Иногда решаю задачки с LeetCode
 
