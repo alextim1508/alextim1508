@@ -17,13 +17,23 @@
 <br>
 <br>
 
-# Актуальные проекты:
+# Актуальные мои проекты:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=intershop&theme=darcula)](https://github.com/alextim1508/intershop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=shareIt&theme=darcula)](https://github.com/alextim1508/shareIt)
+
+Из интересного - была задача снизить нагрузку на основной сервер от невалидных запросов - сделал перед сервисом gateway на WebFlux с валидацией. 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=java-explore-with-me&theme=darcula)](https://github.com/alextim1508/java-explore-with-me)
+
+Из интересного - добавил сервер аутентификации KeyCloak
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=currencyRate&theme=darcula)](https://github.com/alextim1508/currencyRate)
+
+Reactor, Telegram, Kafka
 
 Иногда решаю задачки с LeetCode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/alextim1508)]
+![Leetcode Stats](https://leetcard.jacoblin.cool/alextim1508)
 
 
 <h3 align="left">Social media</h3>
@@ -36,6 +46,7 @@
 <br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alextim1508)
+
 
 <!--
 **alextim1508/alextim1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
