@@ -23,7 +23,7 @@
 
 Иногда решаю задачки с LeetCode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/alextim1508)
+![Leetcode Stats](https://leetcard.jacoblin.cool/alextim1508)](https://github.com/alextim1508/intershop)
 
 
 <h3 align="left">Social media</h3>
