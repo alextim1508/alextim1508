@@ -17,12 +17,9 @@
 <br>
 <br>
 
-# Актуальные мои проекты:
+# My current projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&theme=darcula&repo=intershop)](https://github.com/alextim1508/intershop)
-
-
-Иногда решаю задачки с LeetCode
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/alextim1508)
 
