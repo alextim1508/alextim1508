@@ -9,7 +9,6 @@
   </a>
 </p>
 <br>
-<br>
 
 # My current projects:
 
