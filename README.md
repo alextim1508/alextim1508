@@ -3,8 +3,10 @@
 ## I'm Alex and I'm Java developer
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-[![My Skills](https://skillicons.dev/icons?=java,spring,kafka,postgres,redis,sqlite,jenkins,kubernetes,docker,grafana,prometheus,elasticsearch,linux,ubuntu,raspberrypi,git,gradle,maven,idea)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,redis,sqlite,jenkins,kubernetes,docker,grafana,prometheus,elasticsearch,linux,ubuntu,raspberrypi,git,gradle,maven,idea" />
+  </a>
 </p>
 <br>
 <br>
