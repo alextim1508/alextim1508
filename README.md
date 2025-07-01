@@ -5,7 +5,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,redis,sqlite,jenkins,kubernetes,docker,grafana,prometheus,elasticsearch,linux,ubuntu,raspberrypi,git,gradle,maven,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,redis,jenkins,kubernetes,docker,grafana,prometheus,elasticsearch,linux,ubuntu,raspberrypi,git,gradle,maven,idea&perline=3" />
   </a>
 </p>
 <br>
