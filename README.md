@@ -12,7 +12,7 @@
 
 # My current projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=alextim1508&repo=bank)](https://github.com/alextim1508/bank)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&repo=bank&username=alextim1508)](https://github.com/alextim1508/bank)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=alextim1508&repo=intershop)](https://github.com/alextim1508/intershop)
 
