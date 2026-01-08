@@ -12,9 +12,9 @@
 
 # My current projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&repo=bank&username=alextim1508)](https://github.com/alextim1508/bank)
+[![bank](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=bank&theme=darcula&show_owner=true)](https://github.com/alextim1508/bank)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=darcula&username=alextim1508&repo=intershop)](https://github.com/alextim1508/intershop)
+[![intershop](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=intershop&theme=darcula&show_owner=true)](https://github.com/alextim1508/intershop)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/alextim1508)
 
