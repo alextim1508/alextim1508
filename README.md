@@ -12,9 +12,11 @@
 
 # My current projects:
 
-[![bank](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=bank&theme=darcula&show_owner=true)](https://github.com/alextim1508/bank)
+| Название | Описание | Стек |
+|----------|----------|------|
+| [**bank**](https://github.com/alextim1508/bank) | Микросервисный банковский проект | `Spring Boot`, `Spring Cloud`, `Kubernetes` |
+| [**intershop**](https://github.com/alextim1508/intershop) | Витрина интернет-магазина | `Spring Boot`, `WebFlux`, `R2DBC` |
 
-[![intershop](https://github-readme-stats.vercel.app/api/pin/?username=alextim1508&repo=intershop&theme=darcula&show_owner=true)](https://github.com/alextim1508/intershop)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/alextim1508)
 
