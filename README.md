@@ -12,11 +12,8 @@
 
 # My current projects:
 
-| Название | Описание | Стек |
-|----------|----------|------|
-| [**bank**](https://github.com/alextim1508/bank) | Микросервисное приложение Банк | `Spring Boot`, `Spring Cloud`, `Kubernetes` |
-| [**intershop**](https://github.com/alextim1508/intershop) | Витрина интернет-магазина | `Spring Boot`, `WebFlux`, `R2DBC` |
-
+[** Микросервисное приложение Банк**](https://github.com/alextim1508/bank)
+[**Витрина интернет-магазина **](https://github.com/alextim1508/intershop)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/alextim1508)
 
