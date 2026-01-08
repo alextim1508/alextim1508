@@ -14,7 +14,7 @@
 
 | Название | Описание | Стек |
 |----------|----------|------|
-| [**bank**](https://github.com/alextim1508/bank) | Микросервисный банковский проект | `Spring Boot`, `Spring Cloud`, `Kubernetes` |
+| [**bank**](https://github.com/alextim1508/bank) | Микросервисное приложение Банк | `Spring Boot`, `Spring Cloud`, `Kubernetes` |
 | [**intershop**](https://github.com/alextim1508/intershop) | Витрина интернет-магазина | `Spring Boot`, `WebFlux`, `R2DBC` |
 
 
