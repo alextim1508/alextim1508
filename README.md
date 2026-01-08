@@ -12,8 +12,9 @@
 
 # My current projects:
 
-[** Микросервисное приложение Банк**](https://github.com/alextim1508/bank)
-[**Витрина интернет-магазина **](https://github.com/alextim1508/intershop)
+[**Микросервисное приложение Банк**](https://github.com/alextim1508/bank)
+
+[**Витрина интернет-магазина**](https://github.com/alextim1508/intershop)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/alextim1508)
 
